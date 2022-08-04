@@ -262,7 +262,7 @@ body {
   transform: translate(0, 0);
   transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-}
+
 /* ---HeroStudio */
 
 .hero {
@@ -273,7 +273,7 @@ body {
       rgba(47, 48, 58, 0.4),
       rgba(47, 48, 58, 0.4)
     ),
-    url('../images/hero/hero.jpg');
+    url(../images/hero/hero.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
